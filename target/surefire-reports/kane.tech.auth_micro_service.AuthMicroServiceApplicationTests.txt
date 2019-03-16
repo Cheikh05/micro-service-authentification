@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: kane.tech.auth_micro_service.AuthMicroServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.93 s - in kane.tech.auth_micro_service.AuthMicroServiceApplicationTests

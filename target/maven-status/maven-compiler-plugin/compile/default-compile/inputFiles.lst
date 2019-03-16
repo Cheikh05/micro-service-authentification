@@ -1,0 +1,13 @@
+/home/cheikh/Bureau/workspace-jee/auth_micro_service/src/main/java/kane/tech/auth_micro_service/security/JWTAuthentificattionFilter.java
+/home/cheikh/Bureau/workspace-jee/auth_micro_service/src/main/java/kane/tech/auth_micro_service/security/SecurityConstant.java
+/home/cheikh/Bureau/workspace-jee/auth_micro_service/src/main/java/kane/tech/auth_micro_service/service/AccountServiceImpl.java
+/home/cheikh/Bureau/workspace-jee/auth_micro_service/src/main/java/kane/tech/auth_micro_service/service/AccountService.java
+/home/cheikh/Bureau/workspace-jee/auth_micro_service/src/main/java/kane/tech/auth_micro_service/security/JWTAuthorization.java
+/home/cheikh/Bureau/workspace-jee/auth_micro_service/src/main/java/kane/tech/auth_micro_service/security/UserDetailsServiceImpl.java
+/home/cheikh/Bureau/workspace-jee/auth_micro_service/src/main/java/kane/tech/auth_micro_service/dao/UserRepository.java
+/home/cheikh/Bureau/workspace-jee/auth_micro_service/src/main/java/kane/tech/auth_micro_service/web/UserController.java
+/home/cheikh/Bureau/workspace-jee/auth_micro_service/src/main/java/kane/tech/auth_micro_service/dao/RoleRepository.java
+/home/cheikh/Bureau/workspace-jee/auth_micro_service/src/main/java/kane/tech/auth_micro_service/security/SecurityConfig.java
+/home/cheikh/Bureau/workspace-jee/auth_micro_service/src/main/java/kane/tech/auth_micro_service/AuthMicroServiceApplication.java
+/home/cheikh/Bureau/workspace-jee/auth_micro_service/src/main/java/kane/tech/auth_micro_service/entities/AppRole.java
+/home/cheikh/Bureau/workspace-jee/auth_micro_service/src/main/java/kane/tech/auth_micro_service/entities/AppUser.java
